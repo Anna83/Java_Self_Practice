@@ -77,6 +77,13 @@ public class Practice5 {
         System.out.println(x);
 
 
+        int i =10;
+        while (i <= 10){
+            System.out.println("A limsm");
+            i++;
+            System.out.println("ndkn");//  infinite
+            i--;
+        }
 
         }
 
