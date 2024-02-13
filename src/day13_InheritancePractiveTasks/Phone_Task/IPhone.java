@@ -1,4 +1,4 @@
-package PhoneTask;
+package day13_InheritancePractiveTasks.Phone_Task;
 
 public class IPhone {
     private String brand;

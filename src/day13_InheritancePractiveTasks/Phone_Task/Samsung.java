@@ -1,6 +1,4 @@
-package PhoneTask;
-
-import PhoneTask.IPhone;
+package day13_InheritancePractiveTasks.Phone_Task;
 
 public class Samsung extends IPhone {
 

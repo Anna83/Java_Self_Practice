@@ -1,8 +1,4 @@
-package PhoneTask;
-
-import PhoneTask.IPhone;
-import PhoneTask.Nokia;
-import PhoneTask.Samsung;
+package day13_InheritancePractiveTasks.Phone_Task;
 
 public class PhoneClients {
     public static void main(String[] args) {
