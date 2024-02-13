@@ -1,9 +1,4 @@
-package State_Task;
-
-import State_Task.California;
-import State_Task.Florida;
-import State_Task.Texas;
-import State_Task.Virginia;
+package day13_InheritancePractiveTasks.State_Task;
 
 public class StateClients {
     public static void main(String[] args) {
